@@ -7,7 +7,9 @@ package-lock.json
 __pycache__/
 dist/
 build/
-pytgcalls/dist/
 node_modules/
 venv/
 tests/
+.github/workflows/linux-wheel_old.yml
+.github/workflows/test.yml
+
